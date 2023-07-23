@@ -1,16 +1,18 @@
-body{
-    color:white;
-    background-image:url("gif.gif");
-    background-size:cover;
-    text-align:center;
-    font-family:'Orbitron',sans-serif;
+body {
+  color: white;
+  background-image: url("gif.gif");
+  background-size: cover;
+  text-align: center;
+  font-family: 'Orbitron', sans-serif;
 }
-#main-logo{
-    width:500px;
+
+#main-logo {
+  width: 100px;
 }
+
 .button {
   border-radius: 4px;
-  background-color:#808080;	
+  background-color: #808080;
   border: none;
   color: #FFFFFF;
   text-align: center;
@@ -20,7 +22,7 @@ body{
   transition: all 0.5s;
   cursor: pointer;
   margin: 5px;
-  
+
 }
 
 .button span {
@@ -49,6 +51,6 @@ body{
 }
 
 
-.underline{
-    border-bottom:4px solid white;
+.underline {
+  border-bottom: 4px solid white;
 }
