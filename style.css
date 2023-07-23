@@ -3,13 +3,15 @@ body{
     background-image:url("universe.jpg");
     background-size:cover;
     text-align:center;
-    font-family:"Orbitron",sans-serif;
+    font-family:'Orbitron',sans-serif;
 }
 .apply-button{
     padding:6px 12px;
     background:white;
     border:none;
-    font-family:inherit;
+    font-family:'Orbitron',sans-serif;
+
+    
     
 }
     
