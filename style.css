@@ -11,14 +11,22 @@ body{
 
 .apply-button{ 
     padding:6px 12px;
-    background:white;
+    background-color:white;
     border:none;
-    font-family:'Orbitron',sans-serif;
+    font-family:inherit;
     cursor:pointer;
-    width:300px;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
 }
 .apply-button:hover{
     opacity:1;
+}
+.apply-button:active{
+    background-color:grey;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
 }
 .underline{
     border-bottom:4px solid white;
