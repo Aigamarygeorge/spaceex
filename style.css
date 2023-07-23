@@ -5,6 +5,10 @@ body{
     text-align:center;
     font-family:'Orbitron',sans-serif;
 }
+#main-logo{
+    width:100px;
+}
+
 .apply-button{
     padding:6px 12px;
     background:white;
@@ -14,7 +18,4 @@ body{
 }
 .underline{
     border-bottom:4px solid white;
-}
-#main-logo{
-    width:100px;
 }
