@@ -15,6 +15,7 @@ body{
     border:none;
     font-family:'Orbitron',sans-serif;
     cursor:pointer;
+    width:300px;
 }
 .underline{
     border-bottom:4px solid white;
