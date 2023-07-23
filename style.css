@@ -10,16 +10,22 @@ body{
 }
 
 .apply-button{ 
-    padding:6px 12px;
-    background-color:white;
-    border:none;
-    font-family:inherit;
-    cursor:pointer;
-    border-radius: 15px;
-    box-shadow: 0 9px #999;
+  border-radius: 4px;
+  background-color: #4d4747;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+
 }
-.apply-button:hover{
-    opacity:1;
+.apply-button:hover span{
+    
+     padding-right: 25px;
     background-color:#191970;
     
 }
