@@ -55,10 +55,10 @@ body {
   border-bottom: 4px solid white;
 }
 .text{
-  position: relative;
-  background-color: #acece8;
-  width: 600px; 
-  height: 400px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding:1 rem;
 
    
 }
