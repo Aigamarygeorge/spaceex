@@ -54,3 +54,11 @@ body {
 .underline {
   border-bottom: 4px solid white;
 }
+.text{
+  position: relative;
+  background-color: #acece8;
+  width: 600px; 
+  height: 400px;
+
+   
+}
