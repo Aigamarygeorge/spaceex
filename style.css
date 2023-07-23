@@ -17,6 +17,9 @@ body{
     cursor:pointer;
     width:300px;
 }
+.apply-button:hover{
+    opacity:1;
+}
 .underline{
     border-bottom:4px solid white;
 }
