@@ -2,5 +2,12 @@ body{
     color:white;
     background-image: url("universe.jpg");
     background-size:cover;
+    align-items:center;
      
+}
+.apply-button{
+    align-items:center;
+}
+.text-underline{
+    text-align:center;
 }
