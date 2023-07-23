@@ -20,6 +20,8 @@ body{
 }
 .apply-button:hover{
     opacity:1;
+    background-color:grey;
+    
 }
 .apply-button:active{
     background-color:grey;
